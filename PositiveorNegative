@@ -1,0 +1,21 @@
+package week1.day1.assignments;
+
+public class PositiveorNegative {
+	
+	
+	public static void main(String[] args) {
+		
+		int a = 35  ;
+		
+		if (a < 0 )
+		{
+			
+			System.out.println("Given  Number is Negative :" +a);
+		}
+		else
+		{
+			System.out.println("Given Number is Positive : " +a);
+		}
+	}
+
+}
